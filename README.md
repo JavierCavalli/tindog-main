@@ -5,8 +5,8 @@ Project from Angela Yu's The Complete 2022 Web Development Bootcamp, added the a
 ## Built With: 
 
 1. HTML 
-2. SCSS
-3.Animate on Scroll
+2. CSS
+3. Animate on Scroll
 
 ## Demo: 
 
